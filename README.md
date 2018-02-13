@@ -1,5 +1,5 @@
 # Insight-Challenge
-In this repository we identify repeated donnors from individual campaign contributions in multiple year following the guidelines of the Insight Challenge
+In this repository we identify repeated donnors from individual campaign contributions in multiple years following the guidelines of the Insight Challenge
 The main code is a Python script (3.6) that requires the following packages
 
 import os
